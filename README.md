@@ -11,4 +11,4 @@ Follow below instruction to download and install jupyter notebook to run python 
 
 
 
-#1 csv_data_generator.py : A python based data generator for basic requirement of uploading and playing with demo data
+#1 csv_data_generator.py : A python based data generator for basic requirement of uploading and playing with demo data. This will generate unique firstname, lastname with appended numbers, unique contact number, unique emails etc
